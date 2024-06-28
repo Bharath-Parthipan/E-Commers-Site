@@ -1,0 +1,19 @@
+.banner-background{
+    height: 300px;
+    width: 100%;
+    background-color: palegoldenrod;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.title{
+    color: white;
+    font-size: 70px;
+    font-family: "Great Vibes", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+.subtitle{
+    color: white;
+}

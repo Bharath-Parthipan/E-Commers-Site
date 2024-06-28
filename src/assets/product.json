@@ -1,0 +1,272 @@
+[
+    {
+        "id": 101,
+        "brands": "FASHION AND YOUTH",
+        "name": "Hoodie",
+        "price": 750,
+        "productType": "NA",
+        "rating": 4,
+        "productImg": "https://m.media-amazon.com/images/I/71t7Bz7GJAL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 102,
+        "brands": "Lymio",
+        "name": "Henley Neck Half Sleeve",
+        "price": 329,
+        "productType": "New",
+        "rating": 4,
+        "productImg": "https://m.media-amazon.com/images/I/71raL1w6FML._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 103,
+        "brands": "Lymio",
+        "name": "Half Sleeve",
+        "price": 379,
+        "productType": "New",
+        "rating": 3,
+        "productImg": "https://m.media-amazon.com/images/I/71x4rLhMkML._AC_UL480_QL65_.jpg"
+    },
+    {
+        "id": 104,
+        "brands": "ADRO",
+        "name": "Crew Neck",
+        "price": 699,
+        "productType": "New",
+        "rating": 4,
+        "productImg": "https://m.media-amazon.com/images/I/41cUF7jpp2L._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 105,
+        "brands": "U-TURN",
+        "name": "Full Hand Shirt",
+        "price": 474,
+        "productType": "New",
+        "rating": 4,
+        "productImg": "https://m.media-amazon.com/images/I/51vubyODw8L._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 106,
+        "brands": "AUSK",
+        "name": "Hoodie",
+        "price": 599,
+        "productType": "New",
+        "rating": 4,
+        "productImg": "https://m.media-amazon.com/images/I/716-zljdqBL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 107,
+        "brands": "Lymio",
+        "name": "Henley Neck Half Sleeve",
+        "price": 329,
+        "productType": "New",
+        "rating": 4,
+        "productImg": "https://m.media-amazon.com/images/I/71r3W2+d-vL._SY741_.jpg"
+    },
+    {
+        "id": 108,
+        "brands": "EYEBOGLER",
+        "name": "Half Sleeve",
+        "price": 325,
+        "productType": "New",
+        "rating": 2,
+        "productImg": "https://m.media-amazon.com/images/I/51oibg+3wtL._AC_UL480_QL65_.jpg"
+    },
+    {
+        "id": 109,
+        "brands": "AUSK",
+        "name": "Crew Neck",
+        "price": 299,
+        "productType": "New",
+        "rating": 3,
+        "productImg": "https://m.media-amazon.com/images/I/81W2pouhaSL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 110,
+        "brands": "Lymio",
+        "name": "Full Hand Shirt",
+        "price": 459,
+        "productType": "New",
+        "rating": 4,
+        "productImg": "https://m.media-amazon.com/images/I/71V5gEc8YVL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 111,
+        "brands": "ADRO",
+        "name": "Hoodie",
+        "price": 899,
+        "productType": "New",
+        "rating": 4,
+        "productImg": "https://m.media-amazon.com/images/I/61bwT+0N5-L._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 112,
+        "brands": "AUSK",
+        "name": "Henley Neck Full Sleeve",
+        "price": 299,
+        "productType": "New",
+        "rating": 0,
+        "productImg": "https://m.media-amazon.com/images/I/61hy9jLQoaL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 113,
+        "brands": "Symbol",
+        "name": "Half Sleeve",
+        "price": 599,
+        "productType": "New",
+        "rating": 4,
+        "productImg": "https://m.media-amazon.com/images/I/713n+TxyfCL._AC_UL480_QL65_.jpg"
+    },
+    {
+        "id": 114,
+        "brands": "BULLMER",
+        "name": "Crew Neck",
+        "price": 499,
+        "productType": "New",
+        "rating": 4,
+        "productImg": "https://m.media-amazon.com/images/I/61qAQiYfnOL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 115,
+        "brands": "Lymio",
+        "name": "Half Hand Shirt",
+        "price": 599,
+        "productType": "New",
+        "rating": 3,
+        "productImg": "https://m.media-amazon.com/images/I/81MxL9rNYFL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 116,
+        "brands": "More & More",
+        "name": "Hoodie",
+        "price": 599,
+        "productType": "New",
+        "rating": 4,
+        "productImg": "https://m.media-amazon.com/images/I/61DNXOmaMsL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 117,
+        "brands": "Symbol",
+        "name": "Henley Neck Half Sleeve",
+        "price": 349,
+        "productType": "New",
+        "rating": 0,
+        "productImg": "https://m.media-amazon.com/images/I/61oG1XGCqgL._AC_UL480_QL65_.jpg"
+    },
+    {
+        "id": 118,
+        "brands": "EYEBOGLER",
+        "name": "Half Sleeve",
+        "price": 315,
+        "productType": "New",
+        "rating": 3,
+        "productImg": "https://m.media-amazon.com/images/I/51byp5tQ86L._AC_UL480_QL65_.jpg"
+    },
+    {
+        "id": 119,
+        "brands": "ADRO",
+        "name": "Crew Neck",
+        "price": 299,
+        "productType": "New",
+        "rating": 3,
+        "productImg": "https://m.media-amazon.com/images/I/41W1WEP6nsL._AC_UL480_QL65_.jpg"
+    },
+    {
+        "id": 120,
+        "brands": "GRECIILOOKS",
+        "name": "Full Hand Shirt",
+        "price": 399,
+        "productType": "New",
+        "rating": 4,
+        "productImg": "https://m.media-amazon.com/images/I/71QrkXBPABL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 121,
+        "brands": "CRAZYMONK",
+        "name": "Hoodie",
+        "price": 899,
+        "productType": "New",
+        "rating": 4,
+        "productImg": "https://m.media-amazon.com/images/I/81+3g00XzmL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 122,
+        "brands": "Alan Jones Clothing",
+        "name": "Henley Neck Half Sleeve",
+        "price": 461,
+        "productType": "New",
+        "rating": 4,
+        "productImg": "https://m.media-amazon.com/images/I/71YEBIno1gL._AC_UL480_QL65_.jpg"
+    },
+    {
+        "id": 123,
+        "brands": "POSHAX",
+        "name": "Half Sleeve",
+        "price": 349,
+        "productType": "New",
+        "rating": 4,
+        "productImg": "https://m.media-amazon.com/images/I/81hvBiTdJpL._AC_UL480_QL65_.jpg"
+    },
+    {
+        "id": 124,
+        "brands": "Veirdo",
+        "name": "Crew Neck",
+        "price": 329,
+        "productType": "New",
+        "rating": 4,
+        "productImg": "https://m.media-amazon.com/images/I/511kgCPI5eL._AC_UL480_QL65_.jpg"
+    },
+    {
+        "id": 125,
+        "brands": "KETCH",
+        "name": "Full Hand Shirt",
+        "price": 579,
+        "productType": "New",
+        "rating": 4,
+        "productImg": "https://m.media-amazon.com/images/I/91cAPJCQG8L._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 126,
+        "brands": "TOPLOT",
+        "name": "Hoodie",
+        "price": 599,
+        "productType": "New",
+        "rating": 3,
+        "productImg": "https://m.media-amazon.com/images/I/61hkiRgYppL._AC_UL480_QL65_.jpg"
+    },
+    {
+        "id": 127,
+        "brands": "Alan Jones Clothing",
+        "name": "Henley Neck Half Sleeve",
+        "price": 461,
+        "productType": "New",
+        "rating": 4,
+        "productImg": "https://m.media-amazon.com/images/I/81vlVMD8+wL._SX679_.jpg"
+    },
+    {
+        "id": 128,
+        "brands": "Arrow",
+        "name": "Half Sleeve",
+        "price": 699,
+        "productType": "New",
+        "rating": 4,
+        "productImg": "https://m.media-amazon.com/images/I/61Y-Li9QTOL._AC_UL480_QL65_.jpg"
+    },
+    {
+        "id": 129,
+        "brands": "Lymio",
+        "name": "Crew Neck",
+        "price": 379,
+        "productType": "New",
+        "rating": 4,
+        "productImg": "https://m.media-amazon.com/images/I/51gORFALQGL._AC_UL480_QL65_.jpg"
+    },
+    {
+        "id": 130,
+        "brands": "KETCH",
+        "name": "Half Hand Shirt",
+        "price": 599,
+        "productType": "New",
+        "rating": 4,
+        "productImg": "https://m.media-amazon.com/images/I/61cV85sdV5L._SY879_.jpg"
+    }
+]
