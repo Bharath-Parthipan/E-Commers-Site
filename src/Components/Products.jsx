@@ -27,7 +27,7 @@ export const Products = ({ product, cart, setCart }) => {
               <FontAwesomeIcon icon={faStar} style={{ color: product.rating == 5 ? "yellow" : "gray" }} />
             </div>
           </Card.Text>
-          <div>
+          <div style={{ margin: product.rating >= 1 ? "0px 0px" : "25px 0px" }}>
             {cart.includes(product) ? (
               <Button className="btn btn-warning" onClick={removeCart}>Remove from Cart</Button>
             ) : (
