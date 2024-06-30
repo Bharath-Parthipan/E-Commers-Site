@@ -1,3 +1,16 @@
 .banner-background-color{
     background-color: white;
 }
+.card-image{
+    position: relative;
+}
+.highlights{
+    position: absolute;
+    top: 0;
+    right: 0;
+    color: white;
+    padding: 0px 10px;
+    border: unset;
+    border-radius: 4px;
+    background: linear-gradient(66deg, rgba(255, 255, 255, 1) 0%, rgba(22, 210, 34, 1) 100%);
+}

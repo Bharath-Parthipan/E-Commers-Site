@@ -14,7 +14,10 @@ export const Products = ({ product, cart, setCart }) => {
   return (
     <div className="Product-container">
       <Card style={{ width: "18rem", padding: "10px", textAlign: "center" }}>
-        <Card.Img variant="top" src={product.productImg} className="px-4" style={{ height: "300px", objectFit: "cover" }} />
+        <div className="card-image">
+          <Card.Img variant="top" src={product.productImg} className="px-4" style={{ height: "300px", objectFit: "cover" }} />
+          <span className="highlights" style={{ display: product.productType === "NA" ? "none" : "block" }}>{product.productType}</span>
+        </div>
         <Card.Body>
           <Card.Title>{product.brands}</Card.Title>
           <Card.Text>
