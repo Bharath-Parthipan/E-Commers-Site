@@ -13,12 +13,21 @@ function App() {
 
   return (
     <>
-      <HeaderComponent cart={cart} />
+      <div className="z-3 position-fixed top-0" style={{ width: "100%" }}>
+        <HeaderComponent cart={cart} />
+      </div>
       <div className="container-fluid p-0">
-        <BannerComponent />
+        <div className='banner-background-color'>
+          <BannerComponent />
+        </div>
         <div className="container py-5 d-flex flex-wrap justify-content-center align-items-center gap-5">
           {products.map((product) => (
-            <Products key={product.id} product={product} cart={cart} setCart={setCart} />
+            <Products
+              key={product.id}
+              product={product}
+              cart={cart}
+              setCart={setCart}
+            />
           ))}
         </div>
         <Footer />

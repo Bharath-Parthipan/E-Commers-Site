@@ -32,7 +32,7 @@
         "name": "Crew Neck",
         "price": 699,
         "productType": "New",
-        "rating": 4,
+        "rating": 0,
         "productImg": "https://m.media-amazon.com/images/I/41cUF7jpp2L._AC_UL480_FMwebp_QL65_.jpg"
     },
     {
@@ -50,7 +50,7 @@
         "name": "Hoodie",
         "price": 599,
         "productType": "New",
-        "rating": 4,
+        "rating": 0,
         "productImg": "https://m.media-amazon.com/images/I/716-zljdqBL._AC_UL480_FMwebp_QL65_.jpg"
     },
     {

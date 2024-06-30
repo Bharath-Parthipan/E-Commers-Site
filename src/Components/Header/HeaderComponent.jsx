@@ -5,12 +5,15 @@ import NavDropdown from "react-bootstrap/NavDropdown";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faCartShopping } from "@fortawesome/free-solid-svg-icons";
 import "./Headercomponent.css"
+import PropTypes from "prop-types"
 
 export const HeaderComponent = ({cart}) => {
   return (
     <Navbar collapseOnSelect expand="lg" className="bg-white">
       <Container>
-        <Navbar.Brand href="#home">Online Store</Navbar.Brand>
+        <Navbar.Brand href="#home" className="titleColor">
+          Online Shop
+        </Navbar.Brand>
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse id="responsive-navbar-nav">
           <Nav className="me-auto">
@@ -30,7 +33,10 @@ export const HeaderComponent = ({cart}) => {
             </NavDropdown>
           </Nav>
           <Nav>
-            <Nav.Link href="#cart" className="border border-1 border-black rounded-1 px-3 d-flex align-items-center gap-2">
+            <Nav.Link
+              href="#cart"
+              className="border border-1 border-black rounded-1 px-3 d-flex align-items-center gap-2"
+            >
               <FontAwesomeIcon icon={faCartShopping} />
               <span>Cart</span>
               <span className="count">{cart.length}</span>
@@ -41,3 +47,7 @@ export const HeaderComponent = ({cart}) => {
     </Navbar>
   );
 };
+
+HeaderComponent.propTypes = {
+  cart: PropTypes.arrayOf()
+}

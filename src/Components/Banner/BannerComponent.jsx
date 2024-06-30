@@ -2,9 +2,16 @@ import "./BannerComponent.css"
 
 export const BannerComponent = () => {
   return (
-    <div className="banner-background">
-      <h1 className="title">Shop in style</h1>
-      <h4 className="subtitle">With this shop homepage template</h4>
+    <div className="container banner-wrapper border-bottom border-top">
+      <div className="banner-text">
+        <div className="text">
+          <h2 className="title">Fashion Sale</h2>
+          <h1>Minimal Menz Style</h1>
+        </div>
+      </div>
+      <div className="banner-image">
+        <img src="/src/assets/BannerImage.png" style={{ height: "100%", width: "auto", objectFit: "cover"}} alt=""/>
+      </div>
     </div>
-  )
+  );
 }
