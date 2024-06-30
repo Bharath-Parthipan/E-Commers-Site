@@ -1,4 +1,5 @@
 import "./BannerComponent.css"
+import image from "../images/BannerImage.png"
 
 export const BannerComponent = () => {
   return (
@@ -10,7 +11,7 @@ export const BannerComponent = () => {
         </div>
       </div>
       <div className="banner-image">
-        <img src="/src/assets/BannerImage.png" style={{ height: "100%", width: "auto", objectFit: "cover"}} alt=""/>
+        <img src={image } style={{ height: "100%", width: "auto", objectFit: "cover"}} alt=""/>
       </div>
     </div>
   );
