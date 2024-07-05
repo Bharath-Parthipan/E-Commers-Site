@@ -1,8 +1,17 @@
-# React + Vite
+# E-Commers-Site
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple shopping cart application built with React.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Display a list of available products with their name and description.
+- Add items to the cart.
+- Remove items from the cart.
+- Update the cart count dynamically while add and removing.
+
+## Installation
+
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/Bharath-Parthipan/E-Commers-Site.git
+   cd E-Commers-Site
